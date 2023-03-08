@@ -2,8 +2,8 @@
 
 **Group members:**
 - Simon
-- B
-- C
+- Seb
+- Asbjørn
 
 This repository contains  
 1. Inaugural project. 
