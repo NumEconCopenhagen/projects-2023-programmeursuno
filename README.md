@@ -2,7 +2,7 @@
 
 **Group members:**
 - Simon
-- Seb
+- Sebastian
 - Asbjørn
 
 This repository contains  
